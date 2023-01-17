@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Suprit Kumar </br>
 </h1>
-<p align="center">I love creating new things ⚡</p>
+<p align="center">Passionate Coder who just loves building stuff through programming ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 
 
