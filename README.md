@@ -2,7 +2,10 @@
 </h1>
 <p align="center">Passionate Coder who just loves building stuff through programming ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/suprit-kumar/count.svg" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supritk16/)
